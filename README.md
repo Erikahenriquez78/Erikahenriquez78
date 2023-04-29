@@ -1,4 +1,4 @@
-### Hi there 👋 hola estoy aprendiendo a programar
+👋 hola estoy aprendiendo a programar
 
 
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->h 
+-->
