@@ -1,4 +1,4 @@
-👋 hola estoy aprendiendo a programar
+👋 Graduada reciente en Data Science con una sólida formación en análisis de datos y aprendizaje automático. Apasionado por las estrategias de marketing y cómo los datos pueden impulsar el éxito empresarial. Actualmente, estoy adquiriendo experiencia en el mundo de las ventas a través de una beca, donde aplico mis habilidades analíticas para optimizar estrategias de ventas.
 
 
 
