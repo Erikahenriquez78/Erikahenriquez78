@@ -20,7 +20,7 @@ En el actual rol como Sales Analyst, estoy aplicando mis habilidades analíticas
 
 - [LinkedIn](www.linkedin.com/in/erika-guzman-2bb567264)
 - [Correo Electrónico](guzmaneri368@gmail.com)
-- [Otros enlaces relevantes]
+  
 <!--
 **Erikahenriquez78/Erikahenriquez78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
