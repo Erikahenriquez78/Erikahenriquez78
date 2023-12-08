@@ -8,7 +8,7 @@ Graduada reciente en Data Science con una sólida formación en análisis de dat
 - Aprendizaje Automático
 - Estrategias de Marketing
 - Python, SQL
-- Aws
+- Aws,pyspark
   
 
 ## 💼 Experiencia
